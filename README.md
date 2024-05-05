@@ -1,3 +1,3 @@
 # Style_Transfer_Project
 
-Here, we are trying to make a machine learning project which applies style of a painting to any image of your choice.
+This is an attempt to make a machine learning model which extracts the style of a given painting or design and applies to any image of choice.
